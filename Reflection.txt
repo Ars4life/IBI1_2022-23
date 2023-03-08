@@ -1,11 +1,13 @@
-# Third note on 7/1/21, yes! I can make changes in both directions!!
+note1 8/3/2023
 
-# Second note from 7/1/21, I managed to get changes on the ZJE server onto GitHub but can I make changes on the website and send them back?
+Practical4 is quit difficult compare to the previous practical. but after the task, i gradually understand how does git and github work.
 
-# Note from 7/1/21, I have cloned this repo onto the ZJE server and am now going to attempt to push it back onto GitHub.
+It is really frustrated when I couldn't push my changes onto github. It always return a fatal. But after searching, i got that the password was not to my account, but a token of the github. This waste me a lot of time.
 
-This is an example file for reflection in IBI1_2019-20.
+I also understand the importance of a good commit words, because it can tell each time what kinds of changes you have made, and you can go back to the previous version esier.
 
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
+It's fun to make my own web page, but it is rough.
 
-I have also learnt to write careful instructions when communicating online!
+I use to thought the lesson before we start pythong is easy and boring, but this Practical told me i was wroung, it takes effort to finish all the work well and comprehend how and why it work.
+
+and lastly i hope i won't get stuck like this time in the future.
