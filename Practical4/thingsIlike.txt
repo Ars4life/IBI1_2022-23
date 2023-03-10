@@ -1,10 +1,23 @@
-football
-world
-nature
-icecream
-vedio games
+<<<<<<< HEAD
+I like football very much
+I like sun
+I like ice cream
+=======
+I like football
+>>>>>>> Lucy
+I like playing vedio games
+I like learning new things
+I don't like travel
+I like reading 
+I like stay alone
+I like tranquility
 
-but i don't like singing in public.
-
-i love my sister.
-
+<<<<<<< HEAD
+I like coding
+=======
+I like sleeping
+I like breakfast
+I like listening to music
+I like badminton
+I like stay in library
+>>>>>>> Lucy
