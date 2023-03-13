@@ -1,6 +1,6 @@
 #pseudocode
 # for numbers from 1 to 5
-#	calculate the triangle sequence
+#	calculate the hexagon sequence
 # display the values
 
 
