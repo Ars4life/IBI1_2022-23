@@ -16,12 +16,9 @@ gen = 1
 num = 2
 # create a loop to repeat.
 # compare the number of rabbits with 100, if less, move on to the next generation, if more, stop.
-for i in range(0, 100):
-	if num <= 100:
-		num *= 2
-		gen +=1
-	else:
-		break
+while num <= 100:
+	num *= 2
+	gen +=1
 # display the last generation that have the number of rabbit less than 100
-gen_over100 = gen + 1
-print('At the', str(gen_over100), 'generation, more than 100 rabbits have been born')
+
+print('At the', str(gen), 'generation, more than 100 rabbits have been born')
