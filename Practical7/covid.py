@@ -1,4 +1,4 @@
-import os
+\import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -32,5 +32,15 @@ world_datas = covid_data.loc[covid_data['location'] == 'World', :]
 plt.plot(world_datas['date'], world_datas['new_cases'], 'r+')
 plt.plot(world_datas['date'], world_datas['new_deaths'], 'bo')
 plt.xticks(rotation=-90)
-plt.title('world_new_cases')
+plt.title('world new cases and new deaths')
+plt.show()
+# answer the question.
+US_datas = covid_data.loc[covid_data['location'] == 'United States', :]
+plt.plot(US_datas['date'], US_datas['new_cases'], 'r+')
+plt.xticks(rotation=-90)
+plt.title('US_New_cases')
+plt.show()
+plt.plot(US_datas['date'], US_datas['new_deaths'], 'bo')
+plt.xticks(rotation=-90)
+plt.title('US_New_deaths')
 plt.show()
