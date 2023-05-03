@@ -3,8 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 # import the .csv file
-os.chdir('C:/cygwin64/home/10755/IBI1_2022-23/Practical7')
-covid_data = pd.read_csv("full_data.csv")
+covid_data = pd.read_csv("~/full_data.csv")
 # show the 2nd column every 100th to the 1000th
 data_collection_1 = covid_data.iloc[0:1001:100, 2]
 # show the total cases of afghanistan

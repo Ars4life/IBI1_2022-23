@@ -1,9 +1,7 @@
 import re
-import os
 
 # read the file and split the string into each sequence
-os.chdir('C:/cygwin64/home/10755/IBI1_2022-23/Practical9/')
-sequence = open(r'Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa', 'r')
+sequence = open(r'~/Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa', 'r')
 seq_str = sequence.read()
 gene_split = re.split('>', seq_str)
 # make a function to count the input end condon

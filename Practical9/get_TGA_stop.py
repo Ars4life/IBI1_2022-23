@@ -1,9 +1,7 @@
 import re
-import os
 
-os.chdir('C:/cygwin64/home/10755/IBI1_2022-23/Practical9/')
 # open the sequence file for read, read the entire file as a string
-sequence = open(r'Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa', 'r')
+sequence = open(r'~/Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa', 'r')
 seq_str = sequence.read()
 # split the string by genes
 gene_split = re.split('>',seq_str)
