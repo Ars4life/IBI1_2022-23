@@ -1,0 +1,9 @@
+Summary
+1. the result:
+				Human & Mouse	Human & Cat	Mouse & Cat
+Alignment score:		3579			3717			3592
+Identical Percentage:	82.11%		85.22%			81.74%
+
+2. findings and interpretation:
+the human ACE2 gene sequence is more like the cat because 1) the comparison between human being and cat have a higher Alignment score, which shows that the proteins of the two are quite similar, 2) the Identical percentage is higher, which shows that there are more identical proteins between human and cat.
+this may show that human beings and cats are closer in the perspective of evolution. 
