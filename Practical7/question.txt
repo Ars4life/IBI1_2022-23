@@ -1,3 +1,5 @@
-How have new cases and new deaths developed overtime in United State?
+Q: How have new cases and new deaths developed over time in the United States?
 
-America new cases and new deaths first grow slowly but gradually becae faster and faster and reach have the maxium on March 31th.
+The answer code begins at line 39, and ends at line 48
+
+Discussion: America's new cases and new deaths first grow slowly but gradually become faster and faster and reach the maximum on March 31st.
